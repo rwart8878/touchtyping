@@ -1,0 +1,34 @@
+a 240nline Client X | MM Assessment from Gocomet India X ~~  Coderbyte X Bl Convertimage to text - Exractte X | + 4 - x
+& > C @& coderbyte.com/editor/Multiple%20Brackets:Cpp/:candidate#userfqoyh9qa0 © * ®» 0 ® H
+2 (7)LeetCode-The.. gl Codeforces » mt Monkeytype @ LPU ([& LPUContinuousAs.. me a2zdsa « Placement Papers2.. @ cppvector AM htmlcssjsdoc [€€ Practice Problems|... »
+(G, coderbyte «— Back to assessment | View instructions
+
+EEE] C++ v Vim Emacs & Light © Reset | > Runcode | 8% Run Test Cases Submit
+
+Searching Challenge 1 #include <iostream>
+2 #include <string>
+
+Have the function 3 using namespace std; Auto-clear Clear Log
+SearchingChallenge (str) take 4 cies Ee M0
+the st parameter being passed and 5 string SearchingChallenge(string str) { 20
+return 1 #ofBrackets if the brackets : // code goes here
+are correctly matched and each one 8 return str; CIEE Tego Coli aprrar (ee
+is accounted for. Otherwise return 0. ©
+For example: if str is “(hello [world]) ” ¥
+(1)", then the output should be 13 12 int main(void) {
+because all the brackets are matched 13
+and there are 3 pairs of brackets, but // keep this function call here
+
+15 cout << SearchingChallenge(coderbyteInternalStdinFunction(stdin));
+if stx is "((hello [world])" the the 16 em G8
+output should be 0 because the 17
+brackets do not correctly match up. 18 }
+
+only "(",")", "I", and "I" will be used as
+brackets. If str contains no brackets
+return 1.
+
+Examples
+
+Input: *(coder)[byte)]”
+output: @
